@@ -17,11 +17,11 @@ Image credit : [Geeksforgeeks](https://www.geeksforgeeks.org/)<br>
 
 ### Operations ###
 <br>
-1. Insertion
-2. Deletion
-3. Search 
-4. Traverse
-5. Prefix matching
+1. Insertion<br>
+2. Deletion<br>
+3. Search <br>
+4. Traverse<br>
+5. Prefix matching<br>
 6. Count words with prefix : Count the No: of words in the trie that stat\rt with a given prefix.
 <br>
 
