@@ -2,6 +2,7 @@
 <br>
 
 
+
 ![Trie visualization](https://media.geeksforgeeks.org/wp-content/uploads/20220828232752/Triedatastructure1.png)<br>
 Image credit : [Geeksforgeeks](https://www.geeksforgeeks.org/)<br>
 
@@ -24,6 +25,7 @@ Image credit : [Geeksforgeeks](https://www.geeksforgeeks.org/)<br>
 5. Prefix matching<br>
 6. Count words with prefix : Count the No: of words in the trie that stat\rt with a given prefix.
 <br>
+
 
 ### Advantages ###
 <br>
